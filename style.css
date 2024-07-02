@@ -1,0 +1,12 @@
+body {
+    background-color: #FF4191;
+}
+
+#par {
+    color: black;
+    margin-top: 300px;
+    font-size: 100px;
+    font-family: "Bona Nova SC", serif;
+    font-weight: 400;
+    font-style: normal;
+}
